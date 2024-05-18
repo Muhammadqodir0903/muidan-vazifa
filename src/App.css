@@ -1,0 +1,50 @@
+.MuiToolbar-root{
+  background: #000 !important;
+}
+ 
+ .btns{
+  width: 200px;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-content: center !important;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.wrap{
+  background: #000;
+  padding: 20px;
+  width: 100%;
+  border: 1px solid #000;
+  margin: 0 auto;
+  margin-bottom: 30px;
+
+}
+.wrap__inner{
+  width: 800px;
+  margin: 0 auto;
+}
+.class1{
+  text-align: start;
+  color: aliceblue;
+}
+.class2{
+  text-align: center;
+  color: aliceblue;
+}
+.class3{
+  text-align: end;
+  color: aliceblue;
+}
+.class4{
+  text-align: justify;
+  color: aliceblue;
+}
+.button{
+  border-radius: 50% !important;
+  background: white !important;
+  color: black !important;
+  margin-bottom: 30px;
+}
+.chart{
+  margin-top: 50px !important;
+}
